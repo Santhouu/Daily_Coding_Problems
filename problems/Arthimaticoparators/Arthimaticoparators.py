@@ -16,7 +16,7 @@
 
 # The first line contains the first integer, .
 # The second line contains the second integer, .
-# You 
+# You have
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
