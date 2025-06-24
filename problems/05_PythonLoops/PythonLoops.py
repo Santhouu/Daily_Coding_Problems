@@ -1,5 +1,5 @@
 # Loops are the used to write a code that exicute the code repetadly 
-# We have only two loops in python 
+# We have only two loops in python i.e For and While 
 # Task
 # The provided code stub reads an integer, , from STDIN. For all non-negative integers , print .
 
