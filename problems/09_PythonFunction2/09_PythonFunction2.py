@@ -1,3 +1,5 @@
+# Function is a block of code that is used for specific task and allows code reuseability.
+# 
 # The included code stub will read an integer, , from STDIN.
 
 # Without using any string methods, try to print the following:
